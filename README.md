@@ -24,8 +24,8 @@ mochawesome-report generates a self-contained report that can be viewed offline.
 
 ##Sample Report
 
-<img src="./docs/mochawesome-1_4.png" alt="Mochawesome Report" width="75%" />
-<img src="./docs/mochawesome-menu-1_4.png" alt="Mochawesome Report Menu" width="75%" />
+<img src="https://github.com/adamgruber/mochawesome/blob/master/docs/mochawesome-1_4.png" alt="Mochawesome Report" width="75%" />
+<img src="https://github.com/adamgruber/mochawesome/blob/master/docs/mochawesome-menu-1_4.png" alt="Mochawesome Report Menu" width="75%" />
 
 
 ##Usage
